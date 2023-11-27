@@ -1,0 +1,77 @@
+/* home.css */
+
+/* Full-page background color */
+
+.home {
+    background-color: #91d8c6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Align content to the left */
+    align-items: center;
+    background-image: url('https://drive.google.com/uc?id=1bP72_WncBfJc8VfrOxF-TjE0mJdoSICN');
+    background-size: 15%;
+    background-repeat:no-repeat;
+
+    background-position: left; /* Set the image to the left side */
+  }
+  
+  /* Styling for the content container */
+  .content {
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 20px; /* Add space between the image and content */
+    flex-grow: 1;
+  }
+  
+  /* Styling for writing1 */
+  .writing1 {
+    margin-top: 5%;
+    margin-bottom: 3%;
+    font-family: 'Abril Fatface', cursive;
+
+    font-size: 46px;
+   
+  }
+  
+  /* Styling for writing2 */
+  .writing2 {
+    font-family: 'Arimo', sans-serif;
+
+    font-size: 24px;
+    margin-bottom: 5%; /* Add space between writing2 and writing3 */
+    
+  }
+  
+  /* Styling for writing3 */
+  .writing3 {
+    
+    background-color: #afd9d5;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 5%;
+  }
+  
+  .writing4 {
+    
+    background-color: #afd9d5;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+  }
+  .test1
+    {
+        margin-top: 10px;
+        cursor: pointer;
+        background-color: lightcoral;
+        color: white;
+        padding: 7px;
+        border: none;
+        border-radius: 10px;
+        text-align: center;
+      }
+  

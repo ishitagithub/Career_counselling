@@ -1,0 +1,178 @@
+/* .register {
+    height: calc(100vh - 50px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.5),
+        rgba(255, 255, 255, 0.5)
+      ),
+      url("https://e1.pxfuel.com/desktop-wallpaper/646/773/desktop-wallpaper-login-page-login.jpg");
+    background-size: cover;
+  }
+  
+  .registerTitle {
+    font-size: 50px;
+  }
+  
+  .registerForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .registerForm > label {
+    margin: 10px 0;
+  }
+  
+  .registerInput {
+    padding: 10px;
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+  }
+  
+  .registerInput:focus {
+    outline: none;
+  }
+  
+  .registerButton {
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .registerLoginButton {
+    position: absolute;
+    top: 60px;
+    right: 20px;
+    background-color: lightcoral;
+    cursor: pointer;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+  }
+   */
+/* UserRegistrationForm.css */
+.page{
+  background: linear-gradient(
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.5)
+  ),
+  url("https://e1.pxfuel.com/desktop-wallpaper/646/773/desktop-wallpaper-login-page-login.jpg");
+background-size:cover;
+}
+.title{
+  margin-top: 2.5%;
+  margin-left: 47%;
+  align-self: center;
+  justify-content: center;
+  font-size: large;
+  font-family:'Josefin';
+  
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+.user-registration-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 10vh;
+  
+ 
+}
+
+form {
+  display: flex;
+  justify-content: space-between;
+  max-width: 800px;
+  width: 100%;
+}
+
+.column {
+  flex: 1;
+  padding: 20px;
+}
+
+.column h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+button[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  outline: none; /* Remove the default focus outline */
+  align-self: center;
+  
+}
+
+button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+.columns {
+  display: flex;
+  flex-wrap: wrap; /* Enable wrapping to handle small screens */
+  justify-content: space-between;
+}
+
+.column {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+
+
+button[type="submit"] {
+  background-color: #3498db;
+  color: #fff;
+  border: 1px solid #2980b9;
+  border-radius: 4px;
+  padding: 12px 24px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s, border-color 0.3s;
+  
+}
+.sub {
+  display: flex;
+  justify-content: center; /* Center the button horizontally */
+  align-items: flex-end; /* Align the button to the bottom */
+   /* Add some space between the columns and the button */
+   
+}
+button[type="submit"]:hover {
+  background-color: #2980b9;
+}

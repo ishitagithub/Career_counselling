@@ -1,0 +1,345 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "homework",
+      "patterns": [
+        "Can you help me with my homework?",
+        "I'm stuck on my assignment. Can you assist?",
+        "What's the answer to question #5?"
+      ],
+      "responses": [
+        "I'd be happy to help with your homework. Please provide the details of your question.",
+        "Of course, I can assist with your homework. What's the specific problem you're facing?",
+        "Sure, I can help with your assignment. What's the question?"
+      ]
+    },
+    {
+      "tag": "study-tips",
+      "patterns": [
+        "Do you have any study tips?",
+        "How can I improve my study habits?",
+        "What are some effective study techniques?"
+      ],
+      "responses": [
+        "Improving your study habits is important. Try Consistent study routine, minimize distractions, use study aids, take breaks, and practice time management..",
+        "Effective study techniques include Active recall, spaced repetition, mind mapping, Cornell note-taking, and the Feynman technique.."
+      ]
+    },
+    {
+      "tag": "course-recommendation",
+      "patterns": [
+        "Can you recommend a course for me?",
+        "What courses do you suggest for (subject/interest)?",
+        "I'm looking for a course in (topic). Any recommendations?"
+      ],
+      "responses": [
+        "Sure, I can recommend a course. What are your interests or the subject you're looking for?",
+        "I'd be happy to recommend a course. Could you specify your area of interest or the subject you have in mind?",
+        "Of course! To recommend a course, I need to know your preferred subject or field of interest."
+      ]
+    },
+    {
+      "tag": "career-advice",
+      "patterns": [
+        "Do you have any career advice?",
+        "Can you help me with career planning?",
+        "What should I do to advance in my career?"
+      ],
+      "responses": [
+        "Certainly! Career advice is important. Tell me more about yourself. What subject do you like or what are your interests?",
+        "Career planning is crucial. Tell me more about yourself. What subject do you like or what are your interests?",
+        "Yeah, Sure I will tell. Tell me more about yourself. What subject do you like or what are your interests?."
+      ]
+    },
+    {
+      "tag": "programming-help",
+      "patterns": [
+        "I'm struggling with coding. Can you assist?",
+        "How can I debug this code?",
+        "Do you know a good programming resource?"
+      ],
+      "responses": [
+        "Coding can be challenging. Let's work through it together. What's the problem?",
+        "Debugging code requires a systematic approach. Share your code, and we'll find the issue.",
+        "There are many programming resources available."
+      ]
+    },
+    {
+      "tag": "exam-tips",
+      "patterns": [
+        "Any tips for preparing for exams?",
+        "How can I study effectively for my upcoming exam?",
+        "I'm nervous about my test. What should I do?"
+      ],
+      "responses": [
+        "Preparing for exams can be stressful. Here are some tips: Organize study materials, create a study schedule, practice with mock exams, focus on weak areas, stay hydrated, get adequate sleep, and manage test anxiety with deep breaths and positive thinking.",
+
+        "Don't worry, it's normal to feel nervous.Here are some tips: Organize study materials, create a study schedule, practice with mock exams, focus on weak areas, stay hydrated, get adequate sleep, and manage test anxiety with deep breaths and positive thinking."
+      ]
+    },
+    {
+      "tag": "book-recommendation",
+      "patterns": [
+        "Can you recommend a good book to read?",
+        "I'm looking for a book in (genre/subject). Any suggestions?",
+        "What's a must-read book you'd recommend?"
+      ],
+      "responses": [
+        "Certainly! I can recommend a book. What genre or subject are you interested in?",
+        "I'd love to recommend a book. Could you specify the genre or subject you prefer?",
+        "There are many great books out there. To recommend one, I need to know your interests."
+      ]
+    },
+        {
+  "tag": "career-advice-math",
+  "patterns": [
+    "I love mathematics. What career paths are available in this field?",
+    "What can I do with a strong interest in math?",
+    "Math is my favorite subject. Any career suggestions?"
+  ],
+  "responses": [
+    "A strong interest in mathematics opens doors to careers in mathematician, statistician, actuary, data scientist, operations research analyst, cryptographer, economist, math teacher/professor, quantitative analyst (quant), research scientist.",
+    "Mathematics enthusiasts can pursue careers such as mathematician, statistician, actuary, data scientist, operations research analyst, cryptographer, economist, math teacher/professor, quantitative analyst (quant), research scientist.",
+    "Mathematics offers exciting career opportunities in fields like mathematics, statistics, actuarial science, data science, operations research, cryptography, economics, education, finance, and scientific research."
+  ]
+},
+{
+  "tag": "career-advice-science",
+  "patterns": [
+    "I'm passionate about science. What career options are there for me?",
+    "What careers can I explore with a love for science?",
+    "Science is fascinating to me. Any career advice?"
+  ],
+  "responses": [
+    "A passion for science can lead to diverse careers in biology, chemistry, physics, environmental science, geology, and astronomy.",
+    "Science enthusiasts can consider careers like biologist, chemist, physicist, environmental scientist, geologist, and astronomer.",
+    "Science offers a wide range of career paths in areas such as biology, chemistry, physics, environmental science, geology, and astronomy."
+  ]
+},
+{
+  "tag": "career-advice-engineering",
+  "patterns": [
+    "I enjoy engineering concepts. What engineering career paths are available?",
+    "What engineering fields offer exciting career opportunities?",
+    "Engineering interests me. Can you suggest career options?"
+  ],
+  "responses": [
+    "Interest in engineering can lead to careers in civil engineering, mechanical engineering, electrical engineering, computer engineering, and aerospace engineering.",
+    "Engineering enthusiasts can explore professions like civil engineer, mechanical engineer, electrical engineer, computer engineer, and aerospace engineer.",
+    "Engineering offers promising career paths in areas such as civil engineering, mechanical engineering, electrical engineering, computer engineering, and aerospace engineering."
+  ]
+},
+{
+  "tag": "career-advice-computer-science",
+  "patterns": [
+    "Computer science is my passion. What career choices are there in this field?",
+    "What career opportunities are available for computer science enthusiasts?",
+    "I love coding. Any career advice for me?"
+  ],
+  "responses": [
+    "A passion for computer science opens doors to careers in software development, data analysis, cybersecurity, artificial intelligence, and database administration.",
+    "Computer science enthusiasts can pursue professions like software developer, data analyst, cybersecurity analyst, artificial intelligence specialist, and database administrator.",
+    "Computer science offers exciting career paths in areas such as software development, data analysis, cybersecurity, artificial intelligence, and database administration."
+  ]
+},
+{
+  "tag": "career-advice-arts",
+  "patterns": [
+    "I'm interested in the arts. What career paths can I consider?",
+    "What careers are available for individuals with an artistic inclination?",
+    "I have a passion for art. Can you suggest career options?"
+  ],
+  "responses": [
+    "Interest in the arts can lead to careers in visual arts, performing arts, graphic design, film production, and art education.",
+    "Artistic individuals can explore professions like visual artist, actor, graphic designer, film director, and art teacher.",
+    "The arts offer diverse career paths in areas such as visual arts, performing arts, graphic design, film production, and art education."
+  ]
+},
+{
+  "tag": "career-advice-medicine",
+  "patterns": [
+    "I want to pursue a career in medicine. What are my options?",
+    "What medical career paths can I choose from?",
+    "I'm passionate about medicine. Any career advice?"
+  ],
+  "responses": [
+    "A desire to pursue medicine opens doors to careers in healthcare as a doctor, nurse, pharmacist, dentist, or medical researcher.",
+    "Aspiring medical professionals can consider careers like doctor, nurse, pharmacist, dentist, or medical researcher.",
+    "Medicine offers fulfilling career paths in areas such as healthcare, medical research, pharmaceuticals, and dentistry."
+  ]
+},
+{
+  "tag": "career-advice-business",
+  "patterns": [
+    "I'm interested in business and entrepreneurship. What career opportunities exist?",
+    "What business-related careers can I explore?",
+    "I'm passionate about business. Can you provide career advice?"
+  ],
+  "responses": [
+    "Interest in business and entrepreneurship can lead to careers in management, marketing, finance, entrepreneurship, and consulting.",
+    "Business enthusiasts can pursue professions like manager, marketer, financial analyst, entrepreneur, and consultant.",
+    "The world of business offers diverse career paths in areas such as management, marketing, finance, entrepreneurship, and consulting."
+  ]
+},
+{
+  "tag": "career-advice-education",
+  "patterns": [
+    "I want to make a difference in education. What career paths are available?",
+    "What careers can I consider in the field of education?",
+    "I'm passionate about teaching. Any career advice?"
+  ],
+  "responses": [
+    "A commitment to education can lead to careers as a teacher, school counselor, educational psychologist, curriculum developer, or education administrator.",
+    "Aspiring educators can explore professions like teacher, school counselor, educational psychologist, curriculum developer, or education administrator.",
+    "Education offers rewarding career paths in areas such as teaching, counseling, psychology, curriculum development, and education administration."
+  ]
+},
+{
+  "tag": "career-advice-environmental",
+  "patterns": [
+    "I care about the environment. What career choices align with this passion?",
+    "What environmental career paths can I explore?",
+    "I'm passionate about environmental conservation. Any career advice?"
+  ],
+  "responses": [
+    "A commitment to environmental conservation can lead to careers as an environmental scientist, conservation biologist, ecologist, environmental engineer, or sustainability consultant.",
+    "Environmental enthusiasts can pursue professions like environmental scientist, conservation biologist, ecologist, environmental engineer, or sustainability consultant.",
+    "Environmental conservation offers fulfilling career paths in areas such as environmental science, biology, ecology, environmental engineering, and sustainability consulting."
+  ]
+},
+{
+  "tag": "career-advice-technology",
+  "patterns": [
+    "I'm fascinated by technology. What tech-related career opportunities are there?",
+    "What tech careers can I explore with a passion for technology?",
+    "I love gadgets and tech. Any career advice?"
+  ],
+  "responses": [
+    "A fascination with technology opens doors to careers in software development, IT management, cybersecurity, artificial intelligence, and network engineering.",
+    "Tech enthusiasts can consider professions like software developer, IT manager, cybersecurity analyst, artificial intelligence specialist, and network engineer.",
+    "Technology offers exciting career paths in areas such as software development, IT management, cybersecurity, artificial intelligence, and network engineering."
+  ]
+},
+{
+  "tag": "career-advice-sports",
+  "patterns": [
+    "I'm passionate about sports. What career paths can I pursue in this field?",
+    "What sports-related careers are available for sports enthusiasts?",
+    "Sports excite me. Can you suggest career options?"
+  ],
+  "responses": [
+    "A passion for sports can lead to careers as a professional athlete, sports coach, sports psychologist, sports analyst, or sports medicine practitioner.",
+    "Sports enthusiasts can explore professions like professional athlete, sports coach, sports psychologist, sports analyst, or sports medicine practitioner.",
+    "The sports industry offers diverse career paths in areas such as professional sports, coaching, sports psychology, sports analysis, and sports medicine."
+  ]
+},
+{
+  "tag": "career-advice-writing",
+  "patterns": [
+    "I love writing. What career opportunities exist for writers?",
+    "What writing careers can I consider with a passion for writing?",
+    "Writing is my passion. Any career advice?"
+  ],
+  "responses": [
+    "A passion for writing opens doors to careers in journalism, copywriting, content creation, technical writing, and authorship.",
+    "Writers can pursue professions like journalist, copywriter, content creator, technical writer, and author.",
+    "Writing offers creative career paths in areas such as journalism, copywriting, content creation, technical writing, and authorship."
+  ]
+},
+{
+  "tag": "career-advice-undecided",
+  "patterns": [
+    "I'm not sure what career path to choose. How can I decide?",
+    "I have interests in multiple subjects. What career should I pursue?",
+    "I like all subjects. Any advice on choosing a career?"
+  ],
+  "responses": [
+    "Choosing a career path can be challenging. Consider taking a career assessment test to discover your strengths and interests.",
+    "When you have varied interests, it's a good idea to explore interdisciplinary fields or seek advice from career counselors.",
+    "If you enjoy all subjects, consider a career that allows you to work on diverse projects or offers continuous learning opportunities."
+  ]
+},
+{
+  "tag": "career-assessment",
+  "patterns": [
+    "I'm not sure which career is right for me. Can you help me find a suitable career?",
+    "What career assessment tools can you recommend?",
+    "How can I identify the best career path for my interests and skills?"
+  ],
+  "responses": [
+   "You should give the test.You can determine your strongest subject by identifying the one in which you excel the most"
+  ]
+},
+{
+  "tag": "career-change",
+  "patterns": [
+    "I want to change my career. How can I transition to a new field?",
+    "What steps should I take to switch careers?",
+    "Can you provide guidance on changing careers?"
+  ],
+  "responses": [
+    "Changing careers is possible with careful planning. Start by identifying transferable skills and networking in your desired field.",
+    "To transition to a new field, consider gaining relevant certifications or taking courses. Seek mentorship from professionals in the target industry.",
+    "Changing careers is a significant decision. Evaluate your motivations and ensure the new field aligns with your interests and goals."
+  ]
+},
+{
+  "tag": "career-education-options",
+  "patterns": [
+    "What education options are available for my chosen career path?",
+    "How can I prepare academically for my desired career?",
+    "Can you recommend educational pathways for specific careers?"
+  ],
+  "responses": [
+    "Educational pathways vary by career. Research degree programs, certifications, and training relevant to your chosen field.",
+    "Preparing academically involves pursuing relevant courses of study, internships, and hands-on experiences.",
+    "For specific careers, it's important to consult with educational advisors and professionals in the field to determine the best education options."
+  ]
+},
+{
+  "tag": "career-goals",
+  "patterns": [
+    "How can I set and achieve career goals?",
+    "What strategies can help me reach my career aspirations?",
+    "Can you provide advice on advancing in my chosen career?"
+  ],
+  "responses": [
+    "Setting and achieving career goals involves creating a clear plan, setting milestones, and staying adaptable to opportunities.",
+    "To reach career aspirations, consider networking, continuous learning, and seeking mentorship from accomplished professionals.",
+    "Advancing in your chosen career requires dedication, resilience, and a commitment to personal and professional growth."
+  ]
+}
+
+      ]
+    }
