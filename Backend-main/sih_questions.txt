@@ -1,0 +1,447 @@
+Aptitude-
+
+What is the product of 8 and 7?
+a) 15
+b) 56
+c) 64
+d) 78
+
+If you add 25 to a number and then subtract 15 from the result, what is the final value?
+a) 10
+b) 15
+c) 25
+d) 40
+
+What is 20% of 150?
+a) 10
+b) 20
+c) 30
+d) 40
+
+If a book costs $25 and you have a 10% discount coupon, how much will you save?
+a) $2.50
+b) $5.00
+c) $10.00
+d) $20.00
+
+If you divide 48 by 6, what is the quotient?
+a) 4
+b) 6
+c) 8
+d) 12
+
+What is the square of 9?
+a) 18
+b) 27
+c) 81
+d) 90
+
+If a pizza is cut into 8 equal slices and you eat 3 slices, how many slices are left?
+a) 1
+b) 3
+c) 5
+d) 8
+
+If the temperature was 20 degrees Celsius and it dropped by 8 degrees, what is the new temperature?
+a) 8 degrees
+b) 12 degrees
+c) 20 degrees
+d) -8 degrees
+
+If a car travels at a speed of 60 miles per hour for 3 hours, how far does it go?
+a) 20 miles
+b) 180 miles
+c) 120 miles
+d) 60 miles
+
+What is the result of 5 squared minus 3?
+a) 20
+b) 22
+c) 23
+d) 25
+
+If you have $40 and you spend $15, how much money do you have left?
+a) $10
+b) $15
+c) $25
+d) $30
+
+What is 15% of 200?
+a) 15
+b) 30
+c) 45
+d) 60
+
+If you multiply 7 by 9 and then subtract 5, what is the result?
+a) 42
+b) 56
+c) 63
+d) 64
+
+What is the square root of 144?
+a) 10
+b) 12
+c) 14
+d) 16
+
+If you add 1/4 and 3/8, what is the sum?
+a) 5/8
+b) 7/8
+c) 1/2
+d) 3/4
+
+If you double a number and then subtract 10, the result is 26. What is the original number?
+a) 8
+b) 12
+c) 18
+d) 23
+
+What is 40% of 150?
+a) 40
+b) 60
+c) 80
+d) 100
+
+If you have a rectangle with a length of 12 cm and a width of 8 cm, what is its area?
+a) 20 sq. cm
+b) 48 sq. cm
+c) 64 sq. cm
+d) 96 sq. cm
+
+If you divide 64 by 4, what is the result?
+a) 8
+b) 12
+c) 16
+d) 32
+
+What is 3/5 of 75?
+a) 15
+b) 25
+c) 45
+d) 55
+
+Science 
+Physics:
+
+What is the SI unit of force?
+a) Newton (N)
+b) Joule (J)
+c) Watt (W)
+d) Volt (V)
+
+Which of these is an example of a non-renewable energy source?
+a) Solar power
+b) Wind power
+c) Natural gas
+d) Geothermal energy
+
+What is the law of conservation of energy?
+a) Energy can be created but not destroyed.
+b) Energy can be destroyed but not created.
+c) Energy cannot be created or destroyed, only transformed.
+d) Energy is not conserved in any form.
+
+Which of the following colors of light has the longest wavelength?
+a) Red
+b) Green
+c) Blue
+d) Violet
+
+What is the acceleration due to gravity on the surface of Earth?
+a) 9.8 m/s²
+b) 6.7 m/s²
+c) 3.0 m/s²
+d) 12.0 m/s²
+
+Chemistry:
+
+What is the chemical symbol for water?
+a) H2O
+b) CO2
+c) O2
+d) NaCl
+
+Which element is the most abundant in the Earth's crust?
+a) Oxygen (O)
+b) Silicon (Si)
+c) Carbon (C)
+d) Iron (Fe)
+
+What is the pH value of a neutral substance?
+a) 0
+b) 7
+c) 14
+d) -7
+
+Which gas is responsible for the green color of plants?
+a) Oxygen (O2)
+b) Carbon dioxide (CO2)
+c) Nitrogen (N2)
+d) Chlorophyll (C55H72O5N4Mg)
+
+What is the process by which a solid changes directly into a gas without becoming a liquid first?
+a) Evaporation
+b) Sublimation
+c) Condensation
+d) Freezing
+
+Biology:
+
+What is the powerhouse of the cell?
+a) Nucleus
+b) Cell membrane
+c) Mitochondria
+d) Ribosome
+
+Which gas do plants absorb from the atmosphere during photosynthesis?
+a) Oxygen (O2)
+b) Carbon dioxide (CO2)
+c) Nitrogen (N2)
+d) Hydrogen (H2)
+
+What is the function of red blood cells?
+a) Carrying oxygen
+b) Digesting food
+c) Fighting infections
+d) Producing insulin
+
+Which of the following is not a mammal?
+a) Dolphin
+b) Penguin
+c) Kangaroo
+d) Elephant
+
+Earth Science:
+
+What is the outermost layer of the Earth's surface called?
+a) Mantle
+b) Core
+c) Crust
+d) Atmosphere
+
+Which of the following is a type of sedimentary rock?
+a) Granite
+b) Marble
+c) Sandstone
+d) Basalt
+
+What causes earthquakes?
+a) Volcanic eruptions
+b) Plate tectonics
+c) Hurricanes
+d) Meteor impacts
+
+What is the name of the largest ocean on Earth?
+a) Atlantic Ocean
+b) Indian Ocean
+c) Arctic Ocean
+d) Pacific Ocean
+
+
+Social science
+
+History:
+
+Who was the first President of the United States?
+a) Benjamin Franklin
+b) Thomas Jefferson
+c) George Washington
+d) John Adams
+
+Which ancient civilization built the Great Wall of China?
+a) Roman Empire
+b) Greek Empire
+c) Persian Empire
+d) Chinese Empire
+
+What event is known as the "Boston Tea Party"?
+a) A protest against the British tea tax
+b) A celebration of British tea in Boston
+c) A royal party hosted by King George III
+d) A trade agreement with Native Americans
+
+Who was the leader of the Indian independence movement against British rule?
+a) Mahatma Gandhi
+b) Jawaharlal Nehru
+c) Subhas Chandra Bose
+d) Sardar Vallabhbhai Patel
+
+Geography:
+
+Which continent is the Sahara Desert located in?
+a) Asia
+b) Africa
+c) South America
+d) Australia
+
+What is the largest river in the world by volume?
+a) Nile River
+b) Amazon River
+c) Mississippi River
+d) Yangtze River
+
+What is the capital city of Australia?
+a) Sydney
+b) Melbourne
+c) Canberra
+d) Brisbane
+
+Which of the following is not one of the Great Lakes of North America?
+a) Lake Superior
+b) Lake Michigan
+c) Lake Ontario
+d) Lake Yellowstone
+
+Civics and Government:
+
+How often are presidential elections held in the United States?
+a) Every 2 years
+b) Every 4 years
+c) Every 6 years
+d) Every 8 years
+
+What is the supreme law of the United States?
+a) The Bill of Rights
+b) The Constitution
+c) The Declaration of Independence
+d) The Federalist Papers
+
+In a parliamentary system, who is the head of government?
+a) President
+b) Prime Minister
+c) Monarch
+d) Speaker of the House
+
+What is the main role of the United Nations (UN)?
+a) Promoting world peace and cooperation
+b) Regulating international trade
+c) Enforcing global laws
+d) Conducting scientific research
+
+Economics:
+
+What is inflation?
+a) A decrease in the overall price level
+b) A sustained increase in the general price level of goods and services
+c) A trade deficit
+d) A recession
+
+What is the term for a market structure with many buyers and sellers, similar products, and low entry barriers?
+a) Monopoly
+b) Oligopoly
+c) Perfect competition
+d) Monopolistic competition
+
+What is Gross Domestic Product (GDP)?
+a) The total value of all goods and services produced within a country in a year
+b) The total value of exports minus imports
+c) The total value of a country's gold reserves
+d) The total value of government spending in a year
+
+What is the economic system in which the means of production are owned and controlled by the government?
+a) Capitalism
+b) Socialism
+c) Communism
+d) Mercantilism
+
+Mathematics
+
+Arithmetic:
+
+What is 7 multiplied by 9?
+a) 14
+b) 63
+c) 56
+d) 70
+
+If you subtract 15 from 45, what is the result?
+a) 60
+b) 30
+c) 15
+d) 25
+
+What is the sum of 1/4 and 3/8?
+a) 7/8
+b) 5/8
+c) 1/2
+d) 1/4
+
+If you divide 24 by 3, what is the quotient?
+a) 4
+b) 6
+c) 8
+d) 12
+
+Algebra:
+
+Solve for x: 2x + 5 = 15.
+a) x = 5
+b) x = 6
+c) x = 10
+d) x = 15
+
+What is the value of 3x - 2y when x = 7 and y = 4?
+a) 5
+b) 10
+c) 18
+d) 21
+
+Simplify: 2(x + 3) - 4(x - 2).
+a) -2x + 10
+b) 2x - 10
+c) 6x + 2
+d) -6x - 2
+
+Geometry:
+
+What is the area of a rectangle with length 8 units and width 5 units?
+a) 13 sq. units
+b) 40 sq. units
+c) 26 sq. units
+d) 48 sq. units
+
+In a right triangle, what is the side opposite the right angle called?
+a) Hypotenuse
+b) Adjacent side
+c) Opposite side
+d) None of the above
+
+How many degrees are in a right angle?
+a) 45 degrees
+b) 90 degrees
+c) 180 degrees
+d) 360 degrees
+
+Statistics and Probability:
+
+What is the median of the following set of numbers: 4, 8, 2, 6, 9, 1?
+a) 4
+b) 6
+c) 5
+d) 8
+
+If you roll a fair six-sided die, what is the probability of getting a 3?
+a) 1/2
+b) 1/3
+c) 1/6
+d) 2/3
+
+What is the mean (average) of the numbers 12, 15, 18, and 21?
+a) 13
+b) 15
+c) 18
+d) 21
+
+Calculus:
+
+What is the derivative of the function f(x) = 3x^2 - 2x + 1?
+a) 3x - 2
+b) 6x - 2
+c) 3x^2 - 2x
+d) 6x - 1
+
+What is the integral of the function ∫(2x + 3) dx?
+a) x^2 + 3x + C
+b) x^2 + 3x
+c) x^2 + C
+d) 2x^2 + 3x + C
